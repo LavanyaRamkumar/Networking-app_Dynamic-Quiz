@@ -1,4 +1,5 @@
 # Faction Master
+# Update
 
 ## A dynamic quizzing app written in Flask using WebSockets (Flask-SocketIO library) and Celery (for task scheduling)
 
